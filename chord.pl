@@ -1,7 +1,6 @@
 use strict;
 use warnings;
 
-print "Enter a string: ";
 my $s = <STDIN>;
 chomp $s;
 
